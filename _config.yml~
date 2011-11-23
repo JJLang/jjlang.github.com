@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://JJLang.github.com
-title: Bit By Bit 
+title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: JJLang
+author: Your Name
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
