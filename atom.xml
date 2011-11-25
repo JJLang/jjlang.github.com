@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Bit By Bit]]></title>
   <link href="http://JJLang.github.com/atom.xml" rel="self"/>
   <link href="http://JJLang.github.com/"/>
-  <updated>2011-11-22T21:42:48+08:00</updated>
+  <updated>2011-11-25T14:35:15+08:00</updated>
   <id>http://JJLang.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[JJLang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tired Friday Afternoon]]></title>
+    <link href="http://JJLang.github.com/blog/2011/11/25/tired-friday-afternoon/"/>
+    <updated>2011-11-25T14:21:00+08:00</updated>
+    <id>http://JJLang.github.com/blog/2011/11/25/tired-friday-afternoon</id>
+    <content type="html"><![CDATA[<p>After working hard for two days dealing with game avatar real time building system, finally I feel lack of sleep and want to take a rest this whole afternoon.
+What hurts most is I can&#8217;t test till the 3D artist finished export what I want.
+Have to say that being worked on Unity3D for several months, this game editor really crashed my mind of game development stuffs.
+Sometimes it&#8217;s awesome, sometimes it&#8217;s bull-shit.</p>
+]]></content>
+  </entry>
   
 </feed>
